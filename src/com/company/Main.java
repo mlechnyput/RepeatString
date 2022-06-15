@@ -20,5 +20,9 @@ public class Main {
         repeat(str,num);
     }
 
+    public static String recursive(){
+        return "";
+    }
+
 }
 
